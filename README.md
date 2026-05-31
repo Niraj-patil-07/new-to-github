@@ -1,2 +1,2 @@
 # new-to-github
-Print("hellow worl")
+Print("hellow world")
